@@ -78,22 +78,3 @@ Display some info about a Specified Bot.
 
 
 ---
-
-### GET Vote Data
-
-<HTTPHeader type="GET" path="/votes/:botID" />
-
-Display your bot's 5 Most Recent Votes by User ID
-
-###### Acceptable HEADERS
-| Field     | Type        | Description                                                                        |
-| --------- | ----------- | ---------------------------------------------------------------------------------- |
-| authorization   | `String`    | The Bots IBL API Authorization Token.                                        |
-| Content-Type    | `String`    | The Content-Type of the Data should be (application/json).                   |
-
-###### Flags
-| Field     | Type        | Description                                                                                         |
-| --------- | ----------- | --------------------------------------------------------------------------------------------------- |
-| bot_votes | `Array`     | Array of the last 5 Discord IDs for the Users who Voted.                                            |
-
----
