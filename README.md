@@ -13,7 +13,7 @@ Discord Server, Staff Team and Companion API.
 3. All Docs content is located under `/pages/`
 4. All Meta and Header Content is located under `theme.config.js`
 
-**PLEASE LEAVE ALL CREDITS IN PLACE OR YOU MAY BE SUBJECT TO A TAKEDOWN**
+**PLEASE LEAVE ALL CREDITS IN PLACE OR YOU MAY BE SUBJECT TO A TAKEDOWN YOU ARE WELCOME TO ADD THAT IT HAS BEEN EDITIED BY WHOEVER BUT ALL RIGHTS ARE RESERVED**
 
 ---
 
