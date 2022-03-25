@@ -7,6 +7,16 @@ Discord Server, Staff Team and Companion API.
 
 ---
 
+## Self Hosting
+1. Download or Fork this Repo
+2. Open the Project in a Code Editor
+3. All Docs content is located under `/pages/`
+4. All Meta and Header Content is located under `theme.config.js`
+
+**PLEASE LEAVE ALL CREDITS IN PLACE OR YOU MAY BE SUBJECT TO A TAKEDOWN**
+
+---
+
 ## Contributing
 Please read: https://docs.infinitybotlist.com/docs/contributors/authoring
 
