@@ -7,8 +7,15 @@ Discord Server, Staff Team and Companion API.
 
 ---
 
-## Contributors
+## Contributing
 Please read: https://docs.infinitybotlist.com/docs/contributors/authoring
+
+---
+
+## Contributors
+<a href="https://github.com/InfinityBotList/Documentation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=InfinityBotList/Documentation" />
+</a>
 
 ---
 
