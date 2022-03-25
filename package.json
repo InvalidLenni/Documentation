@@ -3,7 +3,6 @@
   "version": "4.0.0",
   "main": "index.js",
   "author": "Toxic Dev",
-  "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build"
