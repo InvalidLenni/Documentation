@@ -13,7 +13,7 @@
     "eslint-plugin-react-hooks": "latest",
     "eslint-plugin-tailwindcss": "latest",
     "next": "^12.0.8",
-    "nextra": "^2.0.0-alpha.16",
+    "nextra": "^3.0.0",
     "nextra-theme-docs": "^2.0.0-alpha.16",
     "prism-react-renderer": "^1.2.1",
     "prismjs": "^1.26.0",
